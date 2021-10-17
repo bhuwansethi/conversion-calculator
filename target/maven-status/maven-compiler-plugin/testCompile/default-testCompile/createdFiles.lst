@@ -1,0 +1,8 @@
+com\bs\conversion\controller\ConversionControllerTests.class
+com\bs\conversion\service\VolumeConversionTests.class
+com\bs\conversion\service\TemperatureConversionTests.class
+com\bs\conversion\service\WeightConversionTests.class
+com\bs\conversion\service\ConversionServiceTests.class
+com\bs\conversion\service\LengthConversionTests.class
+com\bs\conversion\service\ConversionFactoryTests.class
+com\bs\conversion\service\AreaConversionTests.class

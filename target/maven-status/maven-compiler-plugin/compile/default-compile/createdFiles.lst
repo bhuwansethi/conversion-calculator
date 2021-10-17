@@ -1,0 +1,12 @@
+com\bs\conversion\service\WeightConversion.class
+com\bs\conversion\controller\ConversionController.class
+com\bs\conversion\swagger\SwaggerAPIDocumentationConfig.class
+com\bs\conversion\swagger\SwaggerUIController.class
+com\bs\conversion\RestServiceApplication.class
+com\bs\conversion\service\Conversion.class
+com\bs\conversion\service\AreaConversion.class
+com\bs\conversion\service\VolumeConversion.class
+com\bs\conversion\service\ConversionService.class
+com\bs\conversion\service\TemperatureConversion.class
+com\bs\conversion\service\ConversionFactory.class
+com\bs\conversion\service\LengthConversion.class

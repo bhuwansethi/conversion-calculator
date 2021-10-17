@@ -1,0 +1,8 @@
+---
+applications:
+- name: conversion-calculator
+  memory: 256M
+  instances: 1
+  host: conversion-calculator
+  domain: bs.com
+  path: build/libs/conversion-calculator-0.1.0.jar
