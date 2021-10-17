@@ -50,6 +50,8 @@ Endpoint
 /api/convert/{type}/{toSystem}/{value}
 ```
 
+Example:
+Convert 10 Mile to KMs
 ```
 curl localhost:8080/api/convert/length/metric/10
 ```
