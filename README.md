@@ -40,6 +40,20 @@ http://localhost:8080/swagger-ui.html
 ```
 ## Testing
 
+API takes 3 inputs as Path Parameters.
+1. Conversion Type (length, weight, area, volume, temperature)
+2. To Conversion System (metric or imperial)
+3. Value
+
+Endpoint
+```
+/api/convert/{type}/{toSystem}/{value}
+```
+
+```
+curl localhost:8080/api/convert/length/metric/10
+```
+
 Click on the button below to get the Postman Collection for Conversion Calculator.
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/c162bdb0accbdddbf8d0)
